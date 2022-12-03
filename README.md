@@ -31,6 +31,5 @@
 
 <br>
 
-<div align=center>
-
-![Sunguk's github stats](https://github-readme-stats.vercel.app/api?username=Pepe6bf&show_icons=true)
+![Sunguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pepe6bf&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pepe6bf&langs_count=8&layout=compact&theme=radical)](https://github.com/reinexxism/github-readme-stats)
