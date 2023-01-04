@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-열심히 페이지를 꾸미는 중!
+자기소개 페이지 : https://succulent-bottle-ad0.notion.site/Hello-World-b8eef844b6504444ab7e200894d073bf
 </p>
 
 <br>
