@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-🥰 Who am I? 🥰
+🥰 Who am I 🥰
 </p>
 <p align="center">
 https://succulent-bottle-ad0.notion.site/Hello-World-b8eef844b6504444ab7e200894d073bf
