@@ -4,6 +4,8 @@
 
 <p align="center">
 자기소개 페이지
+</p>
+<p align="center">
 https://succulent-bottle-ad0.notion.site/Hello-World-b8eef844b6504444ab7e200894d073bf
 </p>
 
