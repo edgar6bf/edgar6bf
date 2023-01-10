@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Shark&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Sunguk's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=Shark&color=gradient&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Sunguk's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <br>
 
