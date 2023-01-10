@@ -32,10 +32,13 @@ https://succulent-bottle-ad0.notion.site/Hello-World-b8eef844b6504444ab7e200894d
     💡used at least once
 </p>
 
+<br>
+
 <p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/HTML-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=JavaScript&logoColor=black"/> 
+    <br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"/>
 </p>
