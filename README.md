@@ -132,7 +132,9 @@
     <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"/>
 </p>
 
-<a href="https://github.com/imysh578">
-    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Pepe6bf&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SungUk's github stats" /></a>
+<div align="center">
+    <a href="https://github.com/imysh578">
+    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Pepe6bf&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="SungUk's github stats" /></a>
+</div>
 
 
