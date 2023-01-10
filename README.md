@@ -29,8 +29,6 @@ https://succulent-bottle-ad0.notion.site/Hello-World-b8eef844b6504444ab7e200894d
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
 </p>
 
-<br>
-
 <p align="center">
     💡used at least once
 </p>
