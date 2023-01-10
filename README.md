@@ -9,6 +9,12 @@
 https://succulent-bottle-ad0.notion.site/Hello-World-b8eef844b6504444ab7e200894d073bf
 </p>
 
+<p align="center">
+    <a href="https://succulent-bottle-ad0.notion.site/Hello-World-b8eef844b6504444ab7e200894d073bf">
+         <img src="https://img.shields.io/badge/My Profile-000000?style=for-the-badge&logo=Notion&logoColor=white">
+    </a>
+</p>
+
 <br>
 
 <p align="center">
