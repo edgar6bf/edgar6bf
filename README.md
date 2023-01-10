@@ -65,15 +65,6 @@ https://succulent-bottle-ad0.notion.site/Hello-World-b8eef844b6504444ab7e200894d
 <br>
 
 <p align="center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepe6bf&layout=compact"><br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Pepe6bf&show_icons=true">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pepe6bf&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center>
-    <img src="https://github-readme-stats.vercel.app/api?username=Pepe6bf&show_icons=true">
-</p>
-    
-    
-<div align=center>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pepe6bf&show_icons=true&theme=tokyonight" />
-</div>
