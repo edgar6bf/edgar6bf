@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-🥰 Who am I? 😎
+    <Strong>🥰 Who am I? 😎</Strong>
 </p>
 
 <p align="center">
