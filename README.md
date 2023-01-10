@@ -69,7 +69,7 @@
 
 <div align="center">
     <a href="https://github.com/Pepe6bf/Pepe6bf">
-    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Pepe6bf&show_icons=true&theme=gruvbox" alt="SungUk's github stats" />
+    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Pepe6bf&show_icons=true&theme=dracula" alt="SungUk's github stats" />
     </a>
 </div>
 
