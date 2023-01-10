@@ -13,10 +13,11 @@ https://succulent-bottle-ad0.notion.site/Hello-World-b8eef844b6504444ab7e200894d
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡used as the main
 </p>
 
-<br>
+<p align="center">
+    💡used as the main
+</p>
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
