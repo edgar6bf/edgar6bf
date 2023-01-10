@@ -36,7 +36,7 @@ https://succulent-bottle-ad0.notion.site/Hello-World-b8eef844b6504444ab7e200894d
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=JavaScript&logoColor=white"/>   
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/>
 </p>
 
