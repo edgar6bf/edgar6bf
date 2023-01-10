@@ -5,13 +5,10 @@
 <p align="center">
 🥰 Who am I? 😎
 </p>
-<p align="center">
-https://succulent-bottle-ad0.notion.site/Hello-World-b8eef844b6504444ab7e200894d073bf
-</p>
 
 <p align="center">
     <a href="https://succulent-bottle-ad0.notion.site/Hello-World-b8eef844b6504444ab7e200894d073bf">
-         <img src="https://img.shields.io/badge/My Profile-FF6C37?style=for-the-badge&logo=Notion&logoColor=white">
+         <img src="https://img.shields.io/badge/My Profile-FFC0CB?style=for-the-badge&logo=Notion&logoColor=white">
     </a>
 </p>
 
@@ -67,10 +64,3 @@ https://succulent-bottle-ad0.notion.site/Hello-World-b8eef844b6504444ab7e200894d
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"/>
 </p>
-
-<br>
-
-<div align="center>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pepe6bf&show_icons=true&theme=tokyonight" />
-</div>
-
