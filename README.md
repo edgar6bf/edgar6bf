@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    🧑‍💻 used as the main
+    🧑‍💻 Used as the main
 </p>
 
 <p align="center" display="inline-block">
