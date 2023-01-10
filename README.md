@@ -32,11 +32,11 @@ https://succulent-bottle-ad0.notion.site/Hello-World-b8eef844b6504444ab7e200894d
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 </p>
 
+<br>
+
 <p align="center">
     🧑‍💻 Used at least once
 </p>
-
-<br>
 
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
