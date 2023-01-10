@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    Used as the main
+    ✨ Used as the main
 </p>
 
 <p align="center" display="inline-block">
@@ -38,7 +38,7 @@
 <br>
 
 <p align="center">
-    Used at least once
+    💡 Used at least once
 </p>
 
 <p align="center" display="inline-block">
@@ -53,7 +53,7 @@
 <br>
 
 <p align="center">
-    Tool
+    🛠️ Tool
 </p>
 
 <p align="center" display="inline-block">
