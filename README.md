@@ -23,16 +23,32 @@
 </p>
 
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"> 
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/">
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+  </a>
+  <a href="https://docs.gradle.org/current/userguide/userguide.html">
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"> 
+  </a>
   <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=SPRINGSECURITY&logoColor=white"> 
+  <a href="https://spring.io/">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+  </a>
+  <a href="https://spring.io/projects/spring-security">
+    <img src="https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=SPRINGSECURITY&logoColor=white"> 
+  </a>
   <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff">
+  </a>
+  <a href="https://aws.amazon.com/ko/">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  </a>
 </p>
 
 <br>
