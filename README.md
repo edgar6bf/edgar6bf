@@ -23,30 +23,30 @@
 </p>
 
 <p align="center" display="inline-block">
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/">
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/" target="blank">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   </a>
-  <a href="https://docs.gradle.org/current/userguide/userguide.html">
+  <a href="https://docs.gradle.org/current/userguide/userguide.html" target="blank">
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"> 
   </a>
   <br>
-  <a href="https://spring.io/">
+  <a href="https://spring.io/" target="blank">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   </a>
-  <a href="https://spring.io/projects/spring-boot">
+  <a href="https://spring.io/projects/spring-boot" target="blank">
     <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   </a>
-  <a href="https://spring.io/projects/spring-security">
+  <a href="https://spring.io/projects/spring-security" target="blank">
     <img src="https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=SPRINGSECURITY&logoColor=white"> 
   </a>
   <br>
-  <a href="https://www.mysql.com/">
+  <a href="https://www.mysql.com/" target="blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff">
   </a>
-  <a href="https://aws.amazon.com/ko/">
+  <a href="https://aws.amazon.com/ko/" target="blank">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
   </a>
-  <a href="https://www.docker.com/">
+  <a href="https://www.docker.com/" target="blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   </a>
 </p>
@@ -73,20 +73,20 @@
 </p>
 
 <p align="center" display="inline-block">
-    <a href="https://www.jetbrains.com/ko-kr/idea/">
+    <a href="https://www.jetbrains.com/ko-kr/idea/" target="blank">
         <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
     </a>
-    <a href="https://www.jetbrains.com/datagrip/?source=google&medium=cpc&campaign=15034927843&term=datagrip&content=555122603676&gclid=CjwKCAiA2fmdBhBpEiwA4CcHzec-fJvUaP_YCAwO2w5x2BsbdNR3CEaNEYvBwdbxYXWKScBkpq8_4BoCIwAQAvD_BwE">
+    <a href="https://www.jetbrains.com/datagrip/?source=google&medium=cpc&campaign=15034927843&term=datagrip&content=555122603676&gclid=CjwKCAiA2fmdBhBpEiwA4CcHzec-fJvUaP_YCAwO2w5x2BsbdNR3CEaNEYvBwdbxYXWKScBkpq8_4BoCIwAQAvD_BwE" target="blank">
         <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white"/>
     </a>
-    <a href="https://www.postman.com/">
+    <a href="https://www.postman.com/" target="blank">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
     </a>
     <br>
-    <a href="https://git-scm.com/">
+    <a href="https://git-scm.com/" target="blank">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
     </a>
-    <a href="https://www.gitkraken.com/">
+    <a href="https://www.gitkraken.com/" target="blank">
         <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"/>
     </a>
 </p>
