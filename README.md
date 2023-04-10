@@ -5,16 +5,6 @@
 <br>
 
 <p align="center">
-    <Strong>🥰 Who am I? 😎</Strong>
-</p>
-
-<p align="center">
-    https://succulent-bottle-ad0.notion.site/Hello-World-b8eef844b6504444ab7e200894d073bf
-</p>
-    
-<br>
-
-<p align="center">
     <Strong>📚 Tech Stack 📚</Strong><br>
 </p>
 
