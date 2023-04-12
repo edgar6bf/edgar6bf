@@ -52,9 +52,7 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=JavaScript&logoColor=black"/> 
     <br>
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=black"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-    <img src="https://img.shields.io/badge/NextJS-010101?style=for-the-badge&logo=Next.JS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"/>
 </p>
 
