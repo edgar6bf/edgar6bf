@@ -87,8 +87,8 @@
 <br>
 
 <div align="center">
-    <a href="https://github.com/Pepe6bf/Pepe6bf">
-    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Pepe6bf&show_icons=true&theme=dracula"/>
+    <a href="https://github.com/edgar6bf/edgar6bf">
+    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=edgar&show_icons=true&theme=dracula"/>
     </a>
 </div>
 
