@@ -74,6 +74,6 @@
 |2018.03 ~ 현재|부산외국어대학교 스마트융합보안학과 & 컴퓨터공학과 재학중|
 |2022.08 ~ 2023.08|Google Developer Student Clubs PKNU Core Member|
 |2022.09 ~ 2022.11|GDSC DEU & PKNU, 연합 해커톤 개최 TF & 운영진(기술 멘토)|
-|2023.07 ~ 2022.08|전국 IT 연합동아리 [DND](https://github.com/dnd-side-project) 9기 백엔드|
+|2023.07 ~ 2022.08|전국 IT 연합동아리 [DND](https://www.dnd.ac/) 9기 백엔드|
 |2023.07.27 ~ 2023.07.29|한동대학교 개최, [DREAMLANDTHON](https://hguhackathon.com/) 우수상 수상|
 |2023.07 ~ 현재|빈틈없는 여행을 위한 준비 가이드라인 서비스, [Packit](https://www.dnd.ac/project/64) 백엔드 개발자|
