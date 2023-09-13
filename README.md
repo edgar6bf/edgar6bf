@@ -10,12 +10,12 @@
 ---
 
 <div align="center">
-    <h2>📚 Tech Stack 📚</h2>
+    <h2>🛠️ Tech Stack </h2>
 </div>
 
-<p align="center">
-    🧑‍💻 Used as the main
-</p>
+<div align="center">
+    <h3>Used as the main</h3>
+</div>
 
 <p align="center" display="inline-block">
   <a href="https://docs.oracle.com/en/java/javase/17/docs/api/" target="blank">
@@ -48,9 +48,9 @@
 
 <br>
 
-<p align="center">
-    ✨ Used at least once
-</p>
+<div align="center">
+    <h3>Used at least once</h3>
+</div>
 
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
