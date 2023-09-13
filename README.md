@@ -31,9 +31,9 @@
   <a href="https://spring.io/projects/spring-security" target="blank">
     <img src="https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=SPRINGSECURITY&logoColor=white"> 
   </a>
-<a href="https://junit.org/junit5/" target="blank">
-    <img src="https://img.shields.io/badge/junit5-25A162?style=flat&logo=junit5&logoColor=white"/>
-</a>
+<a href="https://www.mysql.com/" target="blank">
+    <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+  </a>
   <br>
   <a href="https://www.mysql.com/" target="blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff">
