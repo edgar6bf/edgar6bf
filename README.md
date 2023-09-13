@@ -2,8 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=Shark&color=gradient&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Sunguk's%20GitHub%20Profile&descAlignY=51&descAlign=62" />
 </a>
 
-어제보다 오늘, 오늘보다 내일 더 성장하는 백엔드 개발자 양성욱입니다. 🤭<br>
-성장하기 위한 여정을 오늘도 누군가와 함께, 아이스 아메리카노를 들고 걸어가는 중 입니다. 🥤
+<p align="center">
+    어제보다 오늘, 오늘보다 내일 더 성장하는 백엔드 개발자 양성욱입니다. 🤭<br>
+    성장하기 위한 여정을 오늘도 누군가와 함께, 아이스 아메리카노를 들고 걸어가는 중 입니다. 🥤
+</p>
 
 ---
 
