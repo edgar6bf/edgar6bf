@@ -10,11 +10,11 @@
 ---
 
 <div align="center">
-    <h2>🛠️ Tech Stack </h2>
+    <h2>🛠️ Tech Stack >🛠️</h2>
 </div>
 
 <div align="center">
-    <h3>Used as the main</h3>
+    <h3>🥇Used as the main>🥇</h3>
 </div>
 
 <p align="center" display="inline-block">
@@ -49,7 +49,7 @@
 <br>
 
 <div align="center">
-    <h3>Used at least once</h3>
+    <h3>🥈Used at least once>🥈</h3>
 </div>
 
 <p align="center" display="inline-block">
