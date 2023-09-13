@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-    <strong>📚 Tech Stack 📚</strong>
+    <h2>📚 Tech Stack 📚</h2>
 </p>
 
 <p align="center">
