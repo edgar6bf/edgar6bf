@@ -25,16 +25,23 @@
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"> 
   </a>
   <br>
-  <a href="https://spring.io/projects/spring-boot" target="blank">
-    <img src="https://img.shields.io/badge/SPRING(BOOT)-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+<a href="https://spring.io/projects/spring" target="blank">
+    <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   </a>
-  <a href="https://spring.io/projects/spring-security" target="blank">
-    <img src="https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=SPRINGSECURITY&logoColor=white"> 
+  <a href="https://spring.io/projects/spring-boot" target="blank">
+    <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   </a>
 <a href="https://junit.org/junit5/" target="blank">
     <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
   </a>
   <br>
+<a href="https://spring.io/projects/spring-security" target="blank">
+    <img src="https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=SPRINGSECURITY&logoColor=white"> 
+  </a>
+<a href="https://spring.io/projects/JPA" target="blank">
+    <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> 
+  </a>
+    <br>
   <a href="https://www.mysql.com/" target="blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff">
   </a>
