@@ -9,9 +9,9 @@
 
 ---
 
-<p align="center">
+<div align="center">
     <h2>📚 Tech Stack 📚</h2>
-</p>
+</div>
 
 <p align="center">
     🧑‍💻 Used as the main
