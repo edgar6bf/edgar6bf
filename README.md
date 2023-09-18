@@ -71,9 +71,7 @@
 
 ---
 
-<div align="center">
-    <h2>🧑‍💻 My activity 🧑‍💻</h2>
-</div>
+<h2>🧑‍💻 My activity 🧑‍💻</h2>
 
 |년도|활동|
 |------|---|
