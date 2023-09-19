@@ -40,6 +40,9 @@
 <a href="https://spring.io/projects/JPA" target="blank">
     <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> 
   </a>
+    <a href="http://querydsl.com/" target="blank">
+    <img src="https://img.shields.io/badge/QueryDSL-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"> 
+  </a>
     <br>
   <a href="https://www.mysql.com/" target="blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff">
