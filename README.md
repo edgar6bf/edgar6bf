@@ -8,7 +8,7 @@
 
 ---
 
-<div align="center">
+<div>
     <h2>🛠️ Tech Stack 🛠️</h2>
 </div>
 
@@ -16,7 +16,7 @@
     <h3>🥇 Used as the main 🥇</h3>
 </div>
 
-<p align="center" display="inline-block">
+<p display="inline-block">
   <a href="https://docs.oracle.com/en/java/javase/17/docs/api/" target="blank">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   </a>
@@ -58,11 +58,11 @@
 
 <br>
 
-<div align="center">
+<div >
     <h3>🥈 Used at least once 🥈</h3>
 </div>
 
-<p align="center" display="inline-block">
+<p display="inline-block">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=JavaScript&logoColor=black"/> 
