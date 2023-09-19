@@ -2,6 +2,12 @@
     <img src="https://capsule-render.vercel.app/api?type=Shark&color=gradient&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
 </a>
 
+---
+
+<div>
+    <h2>🤭 Introduce</h2>
+</div>
+
 <p align="center">
     어제보다 오늘, 오늘보다 내일 더 성장하는 백엔드 개발자 양성욱입니다. 🤭
 </p>
@@ -9,11 +15,11 @@
 ---
 
 <div>
-    <h2>🛠️ Tech Stack 🛠️</h2>
+    <h2>🛠️ Tech Stack</h2>
 </div>
 
 <div>
-    <h3>🥇 Used as the main 🥇</h3>
+    <h3>🥇 Used as the main</h3>
 </div>
 
 <p display="inline-block">
@@ -59,7 +65,7 @@
 <br>
 
 <div >
-    <h3>🥈 Used at least once 🥈</h3>
+    <h3>🥈 Used at least once</h3>
 </div>
 
 <p display="inline-block">
@@ -75,7 +81,7 @@
 
 ---
 
-<h2>🧑‍💻 My activity 🧑‍💻</h2>
+<h2>🧑‍💻 My activity</h2>
 
 |년도|활동|
 |------|---|
