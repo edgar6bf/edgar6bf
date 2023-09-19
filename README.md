@@ -12,7 +12,7 @@
     <h2>🛠️ Tech Stack 🛠️</h2>
 </div>
 
-<div align="center">
+<div>
     <h3>🥇 Used as the main 🥇</h3>
 </div>
 
