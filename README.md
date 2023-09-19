@@ -27,13 +27,15 @@
 <a href="https://spring.io/projects/spring-boot" target="blank">
     <img src="https://img.shields.io/badge/SPRING(Boot)-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   </a>
+
+  <a href="https://spring.io/projects/spring-security" target="blank">
+    <img src="https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=SPRINGSECURITY&logoColor=white"> 
+  </a>
     
 <a href="https://junit.org/junit5/" target="blank">
     <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
   </a>
-  <a href="https://spring.io/projects/spring-security" target="blank">
-    <img src="https://img.shields.io/badge/SPRINGSECURITY-6DB33F?style=for-the-badge&logo=SPRINGSECURITY&logoColor=white"> 
-  </a>
+
     
   <br>
 <a href="https://spring.io/projects/JPA" target="blank">
