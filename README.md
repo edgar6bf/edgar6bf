@@ -2,8 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=Shark&color=gradient&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
 </a>
 
----
-
 <div>
     <h2>🤭 Introduce</h2>
 </div>
