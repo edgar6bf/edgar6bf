@@ -35,7 +35,7 @@
   </a>
   <br>
 <a href="https://spring.io/projects/spring-security" target="blank">
-    <img src="https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=SPRINGSECURITY&logoColor=white"> 
+    <img src="https://img.shields.io/badge/SPRINGSECURITY-6DB33F?style=for-the-badge&logo=SPRINGSECURITY&logoColor=white"> 
   </a>
 <a href="https://spring.io/projects/JPA" target="blank">
     <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> 
