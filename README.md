@@ -70,7 +70,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=JavaScript&logoColor=black"/> 
     <br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"/>
 </p>
 
 <br>
