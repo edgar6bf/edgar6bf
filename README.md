@@ -86,3 +86,4 @@
 |2023.07 ~ 2022.08|전국 IT 연합동아리 [DND](https://www.dnd.ac/) 9기 백엔드|
 |2023.07.27 ~ 2023.07.29|한동대학교 개최, [DREAMLANDTHON](https://hguhackathon.com/) 우수상 수상|
 |2023.07 ~ 현재|빈틈없는 여행을 위한 준비 가이드라인 서비스, [Packit](https://www.dnd.ac/project/64) 백엔드 개발자|
+|2024.02 ~ 현재|우아한테크코스 6기 Backend Crew|
