@@ -33,18 +33,10 @@
   <br>
 <a href="https://spring.io/projects/spring-boot" target="blank">
     <img src="https://img.shields.io/badge/SPRING(Boot)-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-  </a>
-
-  <a href="https://spring.io/projects/spring-security" target="blank">
-    <img src="https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=SPRINGSECURITY&logoColor=white"> 
-  </a>
-    
+  </a>  
   <br>
 <a href="https://spring.io/projects/JPA" target="blank">
     <img src="https://img.shields.io/badge/JPA(Hibernate)-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> 
-  </a>
-    <a href="http://querydsl.com/" target="blank">
-    <img src="https://img.shields.io/badge/QueryDSL-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"> 
   </a>
     <br>
   <a href="https://www.mysql.com/" target="blank">
