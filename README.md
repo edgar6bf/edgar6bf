@@ -77,4 +77,4 @@
 |2022.09 ~ 2022.11|GDSC DEU & PKNU, 연합 해커톤 개최 TF & 운영진(기술 멘토)|
 |2023.07 ~ 2023.09|전국 IT 연합동아리 [DND](https://www.dnd.ac/) 9기 백엔드|
 |2023.07.27 ~ 2023.07.29|한동대학교 개최, [DREAMLANDTHON](https://hguhackathon.com/) 우수상 수상|
-|2024.02 ~ 현재|우아한테크코스 6기 Backend Crew|
+|2024.02 ~ 2024.11|우아한테크코스 6기 Backend Crew|
